@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  chartnew1:
+  - apiVersion: v1
+    created: 2018-08-13T14:31:23.457883517+08:00
+    description: A Helm chart for Kubernetes
+    digest: 2ea37e58b7b5557af3c5fec8868a235949b364e5d03911b9b4cd3e878e6b1af5
+    name: chartnew1
+    urls:
+    - chartnew1-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-08-13T14:31:23.456323036+08:00
