@@ -2,11 +2,19 @@ apiVersion: v1
 entries:
   tchart1:
   - apiVersion: v1
-    created: 2018-08-13T12:38:10.764088094+08:00
+    created: 2018-08-13T12:55:47.217456726+08:00
+    description: A Helm chart for Kubernetes 2.0
+    digest: c125b3670b0e61120b02eb5f1725523cd41c48e7a650a92669d28a011923f711
+    name: tchart1
+    urls:
+    - tchart1-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    created: 2018-08-13T12:55:47.216872838+08:00
     description: A Helm chart for Kubernetes
     digest: 2dc71ff0d7bff13a204428aaef8cee6ab6bd888363b3ee392cdd93c7a40a1799
     name: tchart1
     urls:
     - tchart1-0.1.0.tgz
     version: 0.1.0
-generated: 2018-08-13T12:38:10.763482049+08:00
+generated: 2018-08-13T12:55:47.215979125+08:00
